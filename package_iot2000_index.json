@@ -13,7 +13,7 @@
           "help": {
             "online": "https://support.industry.siemens.com/tf/ww/en/conf/60/"
           },
-          "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/Versions/iot2000_1.0.1.zip",
+          "url": "https://github.com/linhhonphieubat/iot2040/raw/master/Versions/iot2000_1.0.1.zip",
           "archiveFileName": "iot2000_1.0.1.zip",
           "checksum": "SHA-256:0fa5c0cb72dff7a472198f489babbd8c6959d445d0007181f97f26bfd0f3ca20",
           "size": "423626",
@@ -80,28 +80,28 @@
               "checksum": "SHA-256:8395ccb57c627f997fe01170df4613de906f48c6ce99623b9ca42806079c28ad",
               "host": "i386-apple-darwin11",
               "archiveFileName": "intel-arduino-tools-20150316-osx.tar.gz",
-              "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-osx.tar.gz"
+              "url": "https://github.com/linhhonphieubat/iot2040/raw/master/tools/intel-arduino-tools-1.6.2-1.0-osx.tar.gz"
             },
             {
               "size": "3141735",
               "checksum": "SHA-256:27c7f3bb0f280cae8ab89acd887ec497c66b21afe28a4e42cfc5ce4f59e24605",
               "host": "i686-mingw32",
               "archiveFileName": "intel-arduino-tools-20150316-windows.zip",
-              "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-windows.zip"
+              "url": "https://github.com/linhhonphieubat/iot2040/raw/master/tools/intel-arduino-tools-1.6.2-1.0-windows.zip"
             },
             {
               "size": "178239",
               "checksum": "SHA-256:2876db4153db22609d2f6c9c3bfb198efbb9d9574edad579aca7d58cff9d2cca",
               "host": "x86_64-linux-gnu",
               "archiveFileName": "intel-arduino-tools-20150316-linux64.tar.gz",
-              "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-linux64.tar.gz"
+              "url": "https://github.com/linhhonphieubat/iot2040/raw/master/tools/intel-arduino-tools-1.6.2-1.0-linux64.tar.gz"
             },
             {
               "size": "187995",
               "checksum": "SHA-256:20d87602d0194be626f592d3f2bdc9566a5a897786b042393482ef4c26ae158c",
               "host": "i686-linux-gnu",
               "archiveFileName": "intel-arduino-tools-20150316-linux32.tar.gz",
-              "url": "https://github.com/sblyolcubal/arduino-iot2000/raw/master/tools/intel-arduino-tools-1.6.2-1.0-linux32.tar.gz"
+              "url": "https://github.com/linhhonphieubat/iot2040/raw/master/tools/intel-arduino-tools-1.6.2-1.0-linux32.tar.gz"
             }
           ]
         }
